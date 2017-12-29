@@ -18,7 +18,7 @@ LDLIBS=
 ### Regular variables
 
 # Name of program
-PROGRAM=example
+PROGRAM=fried_brains
 
 ###
 ### Second part of a Makefile:
