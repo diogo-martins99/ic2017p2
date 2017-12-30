@@ -4,10 +4,10 @@
 #include "simple_showworld.h"
 
 /* Horizontal world size */
-#define WORLD_X 5
+#define WORLD_X 20
 
 /* Vertical world size */
-#define WORLD_Y 5
+#define WORLD_Y 20
 
 typedef struct {
   AGENT_TYPE type; // agent type
